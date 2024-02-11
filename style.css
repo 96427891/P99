@@ -1,0 +1,32 @@
+body{
+    background-color: rgba(49, 79, 211, 0.882);
+}
+#title{
+    color:rgb(1, 198, 198);
+    font-family:unset;
+    font-size: 70px;
+}
+#h3 , #hfour{
+font-family: sans-serif;
+}
+#h4{
+font-family: serif;
+}
+img{
+    block-size: 200px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+#LBL{
+    font-size: 30px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+img:hover{
+    border-radius: 140px;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+}
